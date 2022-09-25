@@ -16,5 +16,26 @@
   "showad":true,
   "force":false,
   "time":60,
-  "count":1
+  "count":1,
+  "ca":"https://github.com/tester-afk/lk-pm/raw/main/ca",
+  "ma":"US VPN ချိတ်ဆက်အသုံးပြုပေးပါ",
+  "myl":[
+  {"title":"TVရုပ်သံလိုင်းများ",
+  "server":"https://github.com/tester-afk/lk-pm/raw/main/tvc",
+  "show":true
+  },
+  {"title":"နုနုရွရွလေးများ",
+  "server":"https://github.com/tester-afk/lk-pm/raw/main/ba",
+  "show":true
+  },
+  {"title":"ဖောင်းဒိုင်းအသစ်စက်စက်များ",
+  "server":"https://github.com/tester-afk/lk-pm/raw/main/new",
+  "show":true
+  },
+   {"title":"သင့်အတွက် ရွေးချယ်မှုများ",
+  "server":"https://github.com/tester-afk/lk-pm/raw/main/choice",
+  "show":true
+  }
+  
+  ]
   }
